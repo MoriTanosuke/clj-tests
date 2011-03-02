@@ -7,4 +7,4 @@
   [a b] `(str ~a ":" ~b))
 
 (defn gen-foo 
-  [a b c] (str a ":" b ":" c))
+  [a b c] (defn a [b c] (str b ":" c)))
