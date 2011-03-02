@@ -1,13 +1,13 @@
 # clj-testtest
 
-FIXME: write description
+Simple examples for clojure.test.
 
 ## Usage
 
-FIXME: write
+Clone this repository if you want to play with clojures unit testing framework. Feel 
+free to add tests and new files as you go along.
 
 ## License
 
-Copyright (C) 2011 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+If you use this examples, you should at least put a link back to the master repository
+at https://github.com/MoriTanosuke/clj-tests
